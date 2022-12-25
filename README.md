@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tapasvi Chhabhaiya</h1>
-<h3 align="center">A passionate developer I’m Tapasvi Chhabhaiya, Student at 👨‍💻 Parul University, Gujarat Pursuing B.tech in Computer Science, from India</h3>
+<h3 align="center">A passionate developer, Student at 👨‍💻 Parul University, Gujarat Pursuing B.tech in Computer Science, from India</h3>
 
 
 
