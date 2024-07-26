@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on My skills
 
-- 🌱 I’m currently learning **React, Blockchain, Node JS, Data Analytics Course**
+- 🌱 I’m currently learning React, JavaScript, and app development.
 
 - 📫 How to reach me: mail me at **thchhabhaiya@gmail.com**
 
